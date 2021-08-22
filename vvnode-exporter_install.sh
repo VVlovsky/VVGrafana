@@ -20,8 +20,8 @@ Wants=network-online.target
 After=network-online.target
 
 [Service]
-User=prometheus
-Group=prometheus
+User=root
+Group=root
 Type=simple
 ExecStart=/usr/local/bin/node_exporter
 
