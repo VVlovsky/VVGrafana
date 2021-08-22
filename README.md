@@ -1,3 +1,3 @@
 # VVGrafana
 
-```wget https://raw.githubusercontent.com/VVlovsky/VVGrafana/main/vvgrafana_install.sh && chmod +x vvgrafana_install.sh && sudo ./vvgrafana_install.sh```
+```wget https://raw.githubusercontent.com/VVlovsky/VVGrafana/main/vvnode-exporter_install.sh && chmod +x vvnode-exporter_install.sh && sudo ./vvnode-exporter_install.sh```
